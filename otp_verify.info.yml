@@ -1,0 +1,6 @@
+name: Otp Verify
+type: module
+description: Make otp login verification by sms
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
